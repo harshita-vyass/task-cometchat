@@ -108,7 +108,7 @@ const Navbar = () => {
                       alt="comet"
                     />
                   </div>
-                  Submit application
+                 Schedule a demo
                 </button>
                 <Image src={"/assets/moon-01.png"} alt="Vector" width={18} height={20} className="md:hidden block" />
               </div>

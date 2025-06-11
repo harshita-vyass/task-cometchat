@@ -7,13 +7,12 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--background);
-  --font-sans: Satoshi Variable
 }
 
 
 body {
   color: var(--background);
-  font-family: 'SatoshiVariable';
+  font-family: 'SatoshiVariable', sans-serif;
 }
 
 
